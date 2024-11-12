@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "Metallic";
+    src: url("../newfolder/fonts/fs-metallic.ttf");
+  }
+  
+  @font-face {
+    font-family: "Blos";
+    src: url("../newfolder/fonts/blos.ttf");
+  }
+
+  body {
+        font-family: Blos, sans-serif;
+        font-size: 30px;
+  }
+
+  h1 {
+        font-family: "Metallic";
+        font-size: 100px;
+  }
+
+  h2 {
+    font-family: "Blos";
+    font-size: 100px;
+}
